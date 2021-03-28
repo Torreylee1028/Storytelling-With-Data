@@ -17,3 +17,13 @@ The examples here took the scenario that airlines are a safe way to travel by co
 
 ### Examples
 Before and after examples of visualization transformations:
+
+#### Before:
+The skeleton of the graph is created in python.
+
+![Car Fatalities (Before)](/images/fatal_car_bar_before.png)
+
+#### After:
+The finalized version is trasnformed in graphics software to highlight the sections of the graph that extends above a specific threshold. Text placed on the graph is used to emphaise quantity from the y-axis.
+
+![Car Fatalities (After)](/images/fatal_car_bar_final.png)
