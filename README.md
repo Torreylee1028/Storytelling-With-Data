@@ -22,7 +22,7 @@ The skeleton of the graph is created in python.
 
 
 ### After Example:
-The finalized version is trasnformed in graphics software to highlight the sections of the graph that extends above a specific threshold. Text placed on the graph is used to emphaise quantity from the y-axis.
+The finalized version is transformed in graphics software to highlight the sections of the graph that extends above a specific threshold. Text placed on the graph is used to emphasize quantity from the y-axis.
 
 ![Car Fatalities (After)](/images/fatal_car_bar_final.png)
 
